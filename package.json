@@ -1,0 +1,13 @@
+{
+	"name": "x-element",
+	"version": "1.0.0",
+	"description": "A convenient way to create DOM elements.",
+	"keywords": [
+		"element", "DOM", "createElement"
+	],
+	"author": "Alexey Nichiporchik",
+	"bugs": "https://github.com/lexarx/x-element/issues",
+	"license": "MIT",
+	"main": "element.js",
+	"repository": "lexarx/x-element"
+}
